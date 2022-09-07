@@ -213,4 +213,4 @@ void main()
 ## Credits
 Special thanks to [Victor Gordan](https://www.youtube.com/c/VictorGordan) for his video on [Framebuffer & PostProcessing](https://www.youtube.com/watch?v=QQ3jr-9Rc1o).
 
-This library is licensed under `MIT License`. Read [LICENSE](LICENSE) for more info.
+This library is licensed under **MIT License**. Read [LICENSE](LICENSE) for more info.
